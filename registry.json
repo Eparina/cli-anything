@@ -1513,6 +1513,25 @@
           "url": "https://github.com/workcr"
         }
       ]
+    },
+    {
+      "name": "wise",
+      "display_name": "Wise",
+      "version": "1.0.0",
+      "description": "Wise (TransferWise) multi-currency account: balances, FX rates, quotes, recipients and transfers via the Wise Platform API",
+      "requires": "Wise account and personal API token",
+      "homepage": "https://wise.com",
+      "source_url": null,
+      "install_cmd": "pip install git+https://github.com/HKUDS/CLI-Anything.git#subdirectory=wise/agent-harness",
+      "entry_point": "cli-anything-wise",
+      "skill_md": "skills/cli-anything-wise/SKILL.md",
+      "category": "finance",
+      "contributors": [
+        {
+          "name": "CLI-Anything Community",
+          "url": "https://github.com/HKUDS/CLI-Anything"
+        }
+      ]
     }
   ]
 }

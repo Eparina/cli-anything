@@ -1147,6 +1147,13 @@ Each application received complete, production-ready CLI interfaces — not demo
 <td align="center">✅ <a href="mailchimp/agent-harness/">303 cmds</a></td>
 </tr>
 <tr>
+<td align="center"><strong>💸 <a href="wise/agent-harness/">Wise</a></strong></td>
+<td>Payments &amp; Multi-currency Account</td>
+<td><code>cli-anything-wise</code></td>
+<td>Wise Platform REST API</td>
+<td align="center">✅ 40</td>
+</tr>
+<tr>
 <td align="center"><strong>📚 <a href="zotero/agent-harness/">Zotero</a></strong></td>
 <td>Reference Management</td>
 <td><code>cli-anything-zotero</code></td>
